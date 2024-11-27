@@ -179,7 +179,7 @@ spring:
     ai:
       tongyi: # 通义千问
         tongyi:
-          api-key: sk-Zsd81gZYg7
+          api-key: XXXX
 
 yudao:
   ai:
